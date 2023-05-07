@@ -1,6 +1,6 @@
 Iris v0.1.7;https://github.com/Laamy/iris-public/releases/download/v0.1.7/Iris.dll;1.19.73;Iris
 Latite;https://github.com/Imrglop/Latite-Releases/releases/download/v1.3.51/Latite.1.19.81.dll;1.19.81;Latite
-Horion;https://horion.download/dll;1.19.73;Horion
+Horion;https://horion.download/dll;1.19.81;Horion
 Zephyr;https://github.com/Founderroni/Assets/raw/main/MCBE%20Clients/Zephyr.dll;1.19.70;Zephyr
 Onix;https://github.com/bernarddesfosse/onixclientautoupdate/raw/main/OnixClient.dll;1.19.51;Onix
 NG;https://github.com/Founderroni/Assets/raw/main/MCBE%20Clients/NG.dll;1.18.12;NG11812
