@@ -1,4 +1,4 @@
-Iris v0.1.7;https://github.com/Laamy/iris-public/releases/download/v0.1.7/Iris.dll;1.19.73;Iris
+Iris v0.2.1;https://github.com/Laamy/iris-public/releases/download/0.2.1/Iris.dll;1.19.81;Iris
 Latite;https://github.com/Imrglop/Latite-Releases/releases/download/v1.3.53/Latite.1.19.81.dll;1.19.81;Latite
 Horion;https://horion.download/dll;1.19.81;Horion
 Zephyr;https://github.com/Founderroni/Assets/raw/main/MCBE%20Clients/Zephyr.dll;1.19.70;Zephyr
