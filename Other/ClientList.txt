@@ -1,8 +1,8 @@
 Iris v0.2.2;https://github.com/Laamy/iris-public/releases/download/0.2.2/Iris.dll;1.19.81;Iris
-Latite;https://github.com/Imrglop/Latite-Releases/releases/download/v1.3.53/Latite.1.19.81.dll;1.19.81;Latite
+Latite;https://github.com/Imrglop/Latite-Releases/releases/download/v1.3.54/Latite.1.19.81.dll;1.19.81;Latite
 Horion;https://horion.download/dll;1.19.81;Horion
-Zephyr;https://github.com/Founderroni/Assets/raw/main/MCBE%20Clients/Zephyr.dll;1.19.70;Zephyr
-Onix;https://github.com/bernarddesfosse/onixclientautoupdate/raw/main/OnixClient.dll;1.19.81;Onix
+Zephyr;https://github.com/Founderroni/Assets/raw/main/MCBE%20Clients/Zephyr.dll;1.19.71;Zephyr
+Onix;https://github.com/bernarddesfosse/onixclientautoupdate/raw/main/OnixClient.dll;1.19.83;Onix
 NG;https://github.com/Founderroni/Assets/raw/main/MCBE%20Clients/NG.dll;1.18.12;NG11812
 Packet;https://github.com/PacketDeveloper/PacketClientDLLS/raw/main/PacketClient.dll;1.18.12;PacketClient
 Fadeaway 1.17;https://github.com/Founderroni/Assets/raw/main/MCBE%20Clients/Fadeaway%201.17.11.1.dll;1.17.11.1;Fadeaway117
